@@ -4,9 +4,6 @@ A palindrome is a word, phrase, number, or other sequence of characters which re
 ## Description
 Write a function called isPalindrome that takes in a string and returns true if the string is a palindrome and false if it is not.
 
-## Output
-An integer representing the number of occurrences.
-
 ## Examples
 ```
 isPalindrome('madam') // true
